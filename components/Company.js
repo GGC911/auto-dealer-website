@@ -134,7 +134,7 @@ function Company() {
               className="personal-image"
             />
             <div className="personal-text">
-              <p className="name">Sam Riley</p>
+              <p className="name">Sam Scott</p>
               <p>Marketing</p>
             </div>
           </div>
